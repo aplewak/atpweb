@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a0aa7307.css",
   "main.css.map": "static/css/main.a0aa7307.css.map",
-  "main.js": "static/js/main.79670a54.js",
-  "main.js.map": "static/js/main.79670a54.js.map",
+  "main.js": "static/js/main.3cfc7ad9.js",
+  "main.js.map": "static/js/main.3cfc7ad9.js.map",
   "static\\media\\DYNOGRAPH.JPG": "static/media/DYNOGRAPH.6e147be9.JPG",
   "static\\media\\afback.JPG": "static/media/afback.bd7d129c.JPG",
   "static\\media\\afr.png": "static/media/afr.c34a9c1f.png",
@@ -10,11 +10,13 @@
   "static\\media\\airm.JPG": "static/media/airm.58fbc64e.JPG",
   "static\\media\\bback.JPG": "static/media/bback.488942cb.JPG",
   "static\\media\\bfront.JPG": "static/media/bfront.92d6e537.JPG",
+  "static\\media\\cmp.png": "static/media/cmp.3edaadb3.png",
   "static\\media\\fuel.JPG": "static/media/fuel.c2c2fddf.JPG",
   "static\\media\\manif.JPG": "static/media/manif.306474c5.JPG",
   "static\\media\\map.JPG": "static/media/map.6c322315.JPG",
+  "static\\media\\phone.png": "static/media/phone.0c2a8af7.png",
   "static\\media\\pwm.JPG": "static/media/pwm.3782d074.JPG",
   "static\\media\\s200sx.JPG": "static/media/s200sx.8ed3cc08.JPG",
-  "static\\media\\turbo.JPG": "static/media/turbo.ebeb6f7f.JPG",
+  "static\\media\\tbo.png": "static/media/tbo.d8b89b15.png",
   "static\\media\\twg.JPG": "static/media/twg.3f9c7271.JPG"
 }
